@@ -20,7 +20,7 @@ print(my_string_variable, my_int_to_str_variable, my_bool_variable)
 print("Este es el valor de:", my_bool_variable)
 
 # Algunas funciones del sistema
-print(len(my_string_variable))
+print("my_string_variable tiene longitud de: ", len( my_string_variable))
 
 # Variables en una sola línea. ¡Cuidado con abusar de esta sintaxis!
 name, surname, alias, age = "Brais", "Moure", 'MoureDev', 35
