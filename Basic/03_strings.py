@@ -1,6 +1,6 @@
 # Clase en vídeo: https://youtu.be/Kp4Mvapo5kc?t=8643
 
-### Strings ###
+### Strings Strings ###
 
 my_string = "Mi String"
 my_other_string = 'Mi otro String'
